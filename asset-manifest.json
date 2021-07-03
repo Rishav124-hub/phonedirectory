@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/phonedirectory/static/css/main.1000642c.chunk.css",
+    "main.css": "/phonedirectory/static/css/main.0ff7cf7c.chunk.css",
     "main.js": "/phonedirectory/static/js/main.d99eb2df.chunk.js",
     "main.js.map": "/phonedirectory/static/js/main.d99eb2df.chunk.js.map",
     "runtime-main.js": "/phonedirectory/static/js/runtime-main.199d345f.js",
@@ -10,13 +10,13 @@
     "static/js/3.d764c029.chunk.js": "/phonedirectory/static/js/3.d764c029.chunk.js",
     "static/js/3.d764c029.chunk.js.map": "/phonedirectory/static/js/3.d764c029.chunk.js.map",
     "index.html": "/phonedirectory/index.html",
-    "static/css/main.1000642c.chunk.css.map": "/phonedirectory/static/css/main.1000642c.chunk.css.map",
+    "static/css/main.0ff7cf7c.chunk.css.map": "/phonedirectory/static/css/main.0ff7cf7c.chunk.css.map",
     "static/js/2.276ce4e3.chunk.js.LICENSE.txt": "/phonedirectory/static/js/2.276ce4e3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.199d345f.js",
     "static/js/2.276ce4e3.chunk.js",
-    "static/css/main.1000642c.chunk.css",
+    "static/css/main.0ff7cf7c.chunk.css",
     "static/js/main.d99eb2df.chunk.js"
   ]
 }
